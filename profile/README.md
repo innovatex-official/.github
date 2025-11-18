@@ -1,16 +1,6 @@
 # 🚀 InnovateX CS Lab
 ### Where Innovation Meets Excellence in Computer Science Education
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-gyanniketan.vercel.app-blue?style=for-the-badge)](https://gyanniketan.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-innovatex.gns%40gmail.com-red?style=for-the-badge)](mailto:innovatex.gns@gmail.com)
-[![Students](https://img.shields.io/badge/Students-500%2B%20Annually-green?style=for-the-badge)](#)
-
-**Gyan Niketan, Patna, Bihar, India**
-
-</div>
-
 ---
 
 ## 📖 About InnovateX
