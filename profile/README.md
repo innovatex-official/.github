@@ -405,20 +405,6 @@ RESULTS:
 </tr>
 </table>
 
-<div align="center">
-
-### 🎯 ADDITIONAL SPECIALIZATIONS
-
-| Track | Duration | Projects | Difficulty |
-|-------|----------|----------|------------|
-| 🔐 **Cybersecurity** | 320h | 6 | ⚠️⚠️⚠️⚠️ |
-| 📱 **Mobile Development** | 280h | 8 | ⚠️⚠️⚠️ |
-| ⚡ **DevOps Engineering** | 240h | 5 | ⚠️⚠️⚠️⚠️ |
-| 🎮 **Game Development** | 300h | 4 | ⚠️⚠️⚠️ |
-| 🌐 **Cloud Architecture** | 260h | 7 | ⚠️⚠️⚠️⚠️ |
-| 🔗 **Blockchain & Web3** | 220h | 5 | ⚠️⚠️⚠️⚠️⚠️ |
-
-</div>
 
 ---
 
